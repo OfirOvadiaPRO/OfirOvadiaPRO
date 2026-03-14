@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ofir Ovadia 👋
 
-<!--
-**OfirOvadiaPRO/OfirOvadiaPRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Building Scalable AI & Data Systems
 
-Here are some ideas to get you started:
+I provide technical leadership in AI & Data Systems Architecture, focusing on scalable infrastructure and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Research Engineer & Technical Lead** at Irregular (formerly Pattern Labs).
+- Former **CTO & Data Engineer** at Hipposys.
+- Co-founded **PurpleBit** (acquired by Autodesk).
+
+### 🛠️ Tech Stack
+- **AI:** LLMs, RAG, AI Engineering
+- **Data:** PySpark, Airflow, SQL/NoSQL, Big Data
+- **Languages:** Python, PySpark, NumPy, Pandas
